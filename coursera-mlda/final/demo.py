@@ -1,4 +1,3 @@
-# -*- coding: utf-8 -*-
 __author__ = 'onion_bass'
 
 from flask import Flask, request, render_template
